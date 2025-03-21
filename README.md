@@ -18,18 +18,20 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>3D shape generation</summary>
 
-- [AR-1-to-3: Single Image to Consistent 3D Object Generation via Next-View Prediction](), Zhang et al., arXiv 2025
+- [DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning](https://arxiv.org/abs/2503.15265), Zhao et al., arXiv 2025 | [Project](https://zhaorw02.github.io/DeepMesh/) | [Code](https://github.com/zhaorw02/DeepMesh)
+- [MeshPad: Interactive Sketch Conditioned Artistic-designed Mesh Generation and Editing](https://arxiv.org/abs/2503.01425), Li et al., arXiv 2025 | [Project](https://derkleineli.github.io/meshpad/) | [Video](https://www.youtube.com/watch?v=ql37mWf4pg8)
+- [AR-1-to-3: Single Image to Consistent 3D Object Generation via Next-View Prediction](https://arxiv.org/abs/2503.12929), Zhang et al., arXiv 2025 | [Project](https://zhangxuying1004.github.io/projects/AR123/) | [Code](https://github.com/HVision-NKU/AR123)
 - [MARS: Mesh AutoRegressive Model for 3D Shape Detailization](https://arxiv.org/abs/2502.11390), Gao et al., arXiv 2025
 - [Nautilus: Locality-aware Autoencoder for Scalable Mesh Generation](https://arxiv.org/abs/2501.14317), Wang et al., arXiv 2025 | [Project](https://nautilusmeshgen.github.io/) | [Code](https://github.com/yuxuan-w/nautilus)
 - [TAR3D: Creating High-Quality 3D Assets via Next-Part Prediction](https://arxiv.org/abs/2412.16919), Zhang et al., arXiv 2024 | [Code](https://github.com/HVision-NKU/TAR3D)
 - [3D representation in 512-Byte: Variational tokenizer is the key for autoregressive 3D generation](https://arxiv.org/abs/2412.02202), Zhang et al., arXiv 2024 | [Project](https://sparse-mvs-2.github.io/VAT.IO/) | [Code](https://github.com/sparse-mvs-2/VAT)
 - [3D-WAG: Hierarchical Wavelet-Guided Autoregressive Generation for High-Fidelity 3D Shapes](https://arxiv.org/abs/2411.19037), Medi et al., arXiv 2024 
 - [Scaling Mesh Generation via Compressive Tokenization](https://arxiv.org/abs/2411.07025), Weng et al., arXiv 2024 | [Project](https://whaohan.github.io/bpt/) | [Code](https://github.com/whaohan/bpt)
-- [EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation](https://arxiv.org/abs/2409.18114), Tang et al., arXiv 2024 | [Project](https://research.nvidia.com/labs/dir/edgerunner/) | [Code](https://github.com/NVlabs/EdgeRunner)
+- [EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation](https://arxiv.org/abs/2409.18114), Tang et al., ICLR 2025 | [Project](https://research.nvidia.com/labs/dir/edgerunner/) | [Code](https://github.com/NVlabs/EdgeRunner)
 - [MeshAnything V2: Artist-Created Mesh Generation with Adjacent Mesh Tokenization](https://arxiv.org/abs/2408.02555), Chen et al., arXiv 2024 | [Project](https://buaacyw.github.io/meshanything-v2/) | [Code](https://github.com/buaacyw/MeshAnythingV2) | [Video]()
-- [MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers](https://arxiv.org/abs/2406.10163), Chen et al., arXiv 2024 | [Project](https://buaacyw.github.io/mesh-anything/) | [Code](https://github.com/buaacyw/MeshAnything)
-- [MeshXL: Neural Coordinate Field for Generative 3D Foundation Models](https://arxiv.org/abs/2405.20853), Chen et al., arXiv 2024 | [Project](https://meshxl.github.io/) | [Code](https://github.com/OpenMeshLab/MeshXL)
-- [Pivotmesh: Generic 3d mesh generation via pivot vertices guidance.](https://arxiv.org/abs/2405.16890), Weng et al., arXiv 2024 | [Project](https://whaohan.github.io/pivotmesh/) | [Code](https://github.com/whaohan/pivotmesh)
+- [MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers](https://arxiv.org/abs/2406.10163), Chen et al., ICLR 2025 | [Project](https://buaacyw.github.io/mesh-anything/) | [Code](https://github.com/buaacyw/MeshAnything)
+- [MeshXL: Neural Coordinate Field for Generative 3D Foundation Models](https://arxiv.org/abs/2405.20853), Chen et al., NeurIPS 2024 | [Project](https://meshxl.github.io/) | [Code](https://github.com/OpenMeshLab/MeshXL)
+- [Pivotmesh: Generic 3d mesh generation via pivot vertices guidance.](https://arxiv.org/abs/2405.16890), Weng et al., ICLR 2025 | [Project](https://whaohan.github.io/pivotmesh/) | [Code](https://github.com/whaohan/pivotmesh)
 - [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://arxiv.org/abs/2311.15475), Siddiqui et al., CVPR 2024 Highlight | [Project](https://nihalsid.github.io/mesh-gpt/) | [Code](https://github.com/audi/MeshGPT) | [Video](https://www.youtube.com/watch?v=UV90O1_69_o)
 - [Autoregressive 3D Shape Generation via Canonical Mapping](https://arxiv.org/abs/2204.01955), Cheng et al., ECCV 2022 | [Code](https://github.com/AnjieCheng/CanonicalVAE)
 - [ShapeFormer: Transformer-based Shape Completion via Sparse Representation](https://arxiv.org/abs/2201.10326), Yan et al., CVPR 2022 | [Project](https://shapeformer.github.io/) | [Code](https://github.com/qheldiv/shapeformer)
@@ -47,13 +49,14 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 <details open>
 <summary>Automatic rigging</summary>
 
-- [MagicArticulate: Make Your 3D Models Articulation-Ready](https://arxiv.org/abs/2502.12135), Song et al., arXiv 2025 | [Project](https://chaoyuesong.github.io/MagicArticulate/) | [Code](https://github.com/Seed3D/MagicArticulate) | [Video](https://www.youtube.com/watch?v=eJP_VR4cVnk) | [Data](https://huggingface.co/datasets/chaoyue7/Articulation-XL2.0)
+- [MagicArticulate: Make Your 3D Models Articulation-Ready](https://arxiv.org/abs/2502.12135), Song et al., CVPR 2025 | [Project](https://chaoyuesong.github.io/MagicArticulate/) | [Code](https://github.com/Seed3D/MagicArticulate) | [Video](https://www.youtube.com/watch?v=eJP_VR4cVnk) | [Data](https://huggingface.co/datasets/chaoyue7/Articulation-XL2.0)
 - [RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets](https://arxiv.org/abs/2502.09615), Liu et al., arXiv 2025 | [Project](https://www.liuisabella.com/RigAnything/) | [Video](https://www.liuisabella.com/RigAnything/#full_video)
 </details>
 
 <details open>
 <summary>Motion generation</summary>
 
+- [ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model](https://arxiv.org/abs/2502.20323), Chu et al., arXiv 2025 | [Project](https://xg-chu.site/project_artalk/)
 - [ScaMo: Exploring the Scaling Law in Autoregressive Motion Generation Model](https://arxiv.org/abs/2412.14559), Lu et al., arXiv 2024 | [Project](https://shunlinlu.github.io/ScaMo/) | [Code](https://github.com/shunlinlu/ScaMo_code)
 - [Synergy and Synchrony in Couple Dances](https://arxiv.org/abs/2409.04440), Maluleke et al., arXiv 2024 | [Project](https://von31.github.io/synNsync/)
 - [BAMM: Bidirectional Autoregressive Motion Model](https://arxiv.org/abs/2403.19435), Pinyoanuntapong et al., ECCV 2024 | [Project](https://exitudio.github.io/BAMM-page/) | [Code](https://github.com/exitudio/BAMM/)
@@ -82,17 +85,34 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 - [SkexGen: Autoregressive Generation of CAD Construction Sequences with Disentangled Codebooks](https://arxiv.org/abs/2207.04632), Xu et al., ICML 2022 | [Project](https://samxuxiang.github.io/skexgen/) | [Code](https://github.com/samxuxiang/SkexGen) | [Video](https://www.youtube.com/watch?v=j5LB7yMwNVE)
 </details>
 
+<details open>
+<summary>Physics-based Motion generation</summary>
+
+- [OmniPhysGS: 3D Constitutive Gaussians for General Physics-Based Dynamics Generation](https://arxiv.org/pdf/2501.18982), Lin et al., ICLR 2025 | [Project](https://wgsxm.github.io/projects/omniphysgs/) | [Code](https://github.com/wgsxm/OmniPhysGS)
+- [PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics](https://arxiv.org/pdf/2311.12198), Xie et al., CVPR 2024 | [Project](https://xpandora.github.io/PhysGaussian/) | [Code](https://github.com/XPandora/PhysGaussian)
+- [PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation](https://arxiv.org/pdf/2404.13026?), Zhang et al., ECCV 2024 | [Project](https://physdreamer.github.io/) | [Code](https://github.com/a1600012888/PhysDreamer)
+- [Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion](https://arxiv.org/pdf/2406.04338), Liu et al., Arxiv, 2024 | [Project](https://liuff19.github.io/Physics3D/) | [Code](https://github.com/liuff19/Physics3D)
+- [DreamPhysics: Learning Physical Properties of Dynamic 3D Gaussians from Video Diffusion Priors.](https://arxiv.org/pdf/2406.01476), Huang et al., AAAI 2025 | [Project](None) | [Code](https://github.com/tyhuang0428/DreamPhysics) 
+- [Learning Neural Constitutive Laws From Motion Observations for Generalizable PDE Dynamics.](https://arxiv.org/pdf/2304.14369), Ma et al., ICML 2023 | [Project](https://sites.google.com/view/nclaw) | [Code](https://github.com/PingchuanMa/NCLaw)
+
+</details>
+
 ### Image generation
 
 <details open>
 <summary>Image generation</summary>
 
-- [Parallelized Autoregressive Visual Generation](https://arxiv.org/abs/2412.15119), Wang et al., arXiv 2024 | [Project](https://epiphqny.github.io/PAR-project/) | [Code](https://github.com/Epiphqny/PAR)
-- [RandAR: Decoder-only Autoregressive Visual Generation in Random Orders](https://arxiv.org/abs/2412.01827), Pang et al., arXiv 2024 | [Project](https://rand-ar.github.io/) | [Code](https://github.com/ziqipang/RandAR)
+- [NFIG: Autoregressive Image Generation with Next-Frequency Prediction](https://arxiv.org/abs/2503.07076), Huang et al., arXiv 2025
+- [Frequency Autoregressive Image Generation with Continuous Tokens](https://arxiv.org/abs/2503.05305), Yu et al., arXiv 2025 | [Project](https://yuhuustc.github.io//projects/FAR.html) | [Code](https://github.com/yuhuUSTC/FAR)
+- [Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation](https://arxiv.org/abs/2502.20388), Ren et al., arXiv 2025 | [Code](https://oliverrensu.github.io/project/xAR/)
+- [FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction](https://arxiv.org/abs/2502.20313), Jiao et al., arXiv 2025 | [Project](https://epiphqny.github.io/PAR-project/) | [Code](https://github.com/jiaosiyu1999/FlexVAR)
+- [Autoregressive Image Generation Guided by Chains of Thought](https://arxiv.org/abs/2502.16965), Cai et al., arXiv 2025
+- [Parallelized Autoregressive Visual Generation](https://arxiv.org/abs/2412.15119), Wang et al., CVPR 2025 | [Project](https://epiphqny.github.io/PAR-project/) | [Code](https://github.com/Epiphqny/PAR)
+- [RandAR: Decoder-only Autoregressive Visual Generation in Random Orders](https://arxiv.org/abs/2412.01827), Pang et al., CVPR 2025 | [Project](https://rand-ar.github.io/) | [Code](https://github.com/ziqipang/RandAR)
 - [Randomized Autoregressive Visual Generation](https://arxiv.org/abs/2411.00776), Yu et al., arXiv 2024 | [Project](https://yucornetto.github.io/projects/rar.html) | [Code](https://github.com/bytedance/1d-tokenizer) | [Demo](https://huggingface.co/spaces/yucornetto/RAR)
-- [Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens](https://arxiv.org/abs/2410.13863), Fan et al., arXiv 2024
+- [Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens](https://arxiv.org/abs/2410.13863), Fan et al., ICLR 2025
 - [Customize Your Visual Autoregressive Recipe with Set Autoregressive Modeling](https://arxiv.org/abs/2410.10511), Liu et al., arXiv 2024 | [Project](https://poppuppy.github.io/sar.github.io/) | [Code](https://github.com/poppuppy/SAR)
-- [Autoregressive Image Generation without Vector Quantization](https://arxiv.org/abs/2406.11838), Li et al., arXiv 2024 | [Code](https://github.com/LTH14/mar)
+- [Autoregressive Image Generation without Vector Quantization](https://arxiv.org/abs/2406.11838), Li et al., NeurIPS 2024 Spotlight | [Code](https://github.com/LTH14/mar)
 - [Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation](https://arxiv.org/abs/2406.06525), Sun et al., arXiv 2024 | [Project](https://peizesun.github.io/llamagen/) | [Code](https://github.com/FoundationVision/LlamaGen)
 - [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905), Tian et al., NeruIPS 2024 Best Paper | [Code](https://github.com/FoundationVision/VAR)
 - [Muse: Text-To-Image Generation via Masked Generative Transformers](https://arxiv.org/abs/2301.00704), Chang et al., PMLR 2023 | [Project](https://muse-model.github.io/)
@@ -105,19 +125,23 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 - [Conditional Image Generation with PixelCNN Decoders](https://arxiv.org/abs/1606.05328), Van den Oord et al., NIPS 2016 | [Code](https://github.com/anantzoid/Conditional-PixelCNN-decoder)
 </details>
 
+<details open>
+<summary>Medical image generation</summary>
 
+- [Generative Autoregressive Transformers for Model-Agnostic Federated MRI Reconstruction](https://arxiv.org/abs/2502.04521), Nezhad et al., arXiv 2025
+</details>
 
 ### Video generation
 
 <details open>
 <summary>Video generation</summary>
 
-- [Autoregressive Video Generation without Vector Quantization](https://arxiv.org/abs/2412.14169), Deng et al., arXiv 2024 | [Code](https://github.com/baaivision/NOVA)
+- [Autoregressive Video Generation without Vector Quantization](https://arxiv.org/abs/2412.14169), Deng et al., ICLR 2025 | [Code](https://github.com/baaivision/NOVA)
 - [DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models](https://arxiv.org/abs/2412.04446), Li et al., arXiv 2024 | [Project](https://liyizhuo.com/DiCoDe/)
 - [Progressive Autoregressive Video Diffusion Models](https://arxiv.org/abs/2410.08151), Xie et al., arXiv 2024 | [Project](https://desaixie.github.io/pa-vdm/) | [Code](https://github.com/desaixie/pa_vdm)
 - [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](https://arxiv.org/abs/2410.02757), Wang et al., arXiv 2024 | [Project](https://epiphqny.github.io/Loong-video/)
-- [ARLON: Boosting Diffusion Transformers With Autoregressive Models for Long Video Generation](https://arxiv.org/abs/2410.20502), Li et al., arXiv 2024 | [Project](https://arlont2v.github.io/)
-- [LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior](https://arxiv.org/abs/2410.21264), Wang et al., arXiv 2024 | [Project](https://hywang66.github.io/larp/) | [Code](https://github.com/hywang66/LARP/)
+- [ARLON: Boosting Diffusion Transformers With Autoregressive Models for Long Video Generation](https://arxiv.org/abs/2410.20502), Li et al., ICLR 2025 | [Project](https://arlont2v.github.io/)
+- [LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior](https://arxiv.org/abs/2410.21264), Wang et al., ICLR 2025 Oral | [Project](https://hywang66.github.io/larp/) | [Code](https://github.com/hywang66/LARP/)
 - [VideoPoet: A Large Language Model for Zero-Shot Video Generation](https://arxiv.org/abs/2312.14125), Kondratyuk et al., ICML 2024 | [Project](https://sites.research.google/videopoet/)
 - [ART•V: Auto-Regressive Text-to-Video Generation with Diffusion Models](https://arxiv.org/abs/2311.18834), Weng et al., arXiv 2023 | [Project](https://warranweng.github.io/art.v/)
 - [Transframer: Arbitrary Frame Prediction with Generative Models](https://arxiv.org/abs/2203.09494), Nash et al., TMLR 2023 | [Code](https://github.com/lucidrains/transframer-pytorch)

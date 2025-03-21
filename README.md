@@ -68,9 +68,17 @@ A curated list of awesome auto-regressive papers in generative AI, inspired by [
 </details>
 
 <details open>
+<summary>text-to-3D generation</summary>
+
+- [RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling](https://arxiv.org/pdf/2503.09601) , Chachy et al., arXiv 2025 [Project](https://itaychachy.github.io/reward-sds/) | [Code](https://github.com/itaychachy/RewardSDS)
+- [DreamDPO: Aligning Text-to-3D Generation with Human Preferences via Direct Preference Optimization](https://arxiv.org/pdf/2502.04370) , Zhou et al., arXiv 2025 [Project](https://zhenglinzhou.github.io/DreamDPO-ProjectPage/) | [Code](https://github.com/ZhenglinZhou/DreamDPO)
+</details>
+
+<details open>
 <summary>4D generation</summary>
 
-- [AR4D: Autoregressive 4D Generation from Monocular Videos](https://arxiv.org/abs/2501.01722), Zhu et al., arXiv 2025 | [Project](https://hanxinzhu-lab.github.io/AR4D/)
+- [AR4D: Autoregressive 4D Generation from Monocular Videos](https://arxiv.org/abs/2501.01722), Zhu et al., arXiv 2025 | [Project](https://hanxinzhu-lab.github.io/AR4D/) | motivated by [Consistent4D ICLR 2024](https://consistent4d.github.io/)[STAG4D ECCV 2024](https://nju-3dv.github.io/projects/STAG4D/)[SV4D 2024.7](https://sv4d.github.io/)
+- []()| []() | []() | []() 
 </details>
 
 <details open>
